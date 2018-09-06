@@ -1,3 +1,3 @@
 # Quiz-App
 
-View Project http://www.juanswebdevprojects.com/QuizApp/Quiz.html
+View Project https://www.juanswebdevprojects.com/QuizApp/Quiz.html
